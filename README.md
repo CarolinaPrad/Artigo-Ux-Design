@@ -1,7 +1,7 @@
 Projeto artigo técnico gerado por I.A.s
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
-
+https://web.dio.me/articles/design-inclusivo-tornando-experiencias-acessiveis-para-todos?back=%2Farticles&page=1&order=oldest
 
  💻 Tecnologias utilizadas no projeto
 ChatGPT - para título e conteúdo
